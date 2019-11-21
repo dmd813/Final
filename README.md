@@ -7,7 +7,7 @@ Author: Dehan "Maggie" Miao
 
 
 Brief Summary
-1. [Digital system](2)
+1. [Digital Image](2)
 
 2. [Digital Information](3)
 
